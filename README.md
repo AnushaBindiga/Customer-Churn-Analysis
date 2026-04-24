@@ -58,9 +58,6 @@ and provides data-driven recommendations to reduce churn.
 
 
 
-\## Dashboard
-
-!\[Dashboard](dashboard/Churn_Dashboard.png)
 
 
 
