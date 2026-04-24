@@ -60,7 +60,7 @@ and provides data-driven recommendations to reduce churn.
 
 \## Dashboard
 
-!\[Dashboard](dashboard/dashboard\_screenshot.png)
+!\[Dashboard](dashboard/Churn\_Dashboard.png)
 
 
 
@@ -72,5 +72,5 @@ and provides data-driven recommendations to reduce churn.
 
 \- `dashboard/churn\_dashboard.pbix` — Power BI dashboard file
 
-\- `dashboard/churn\_dashboard.png` — Dashboard screenshot
+\- `dashboard/Churn\_Dashboard.png` — Dashboard screenshot
 
