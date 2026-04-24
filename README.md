@@ -60,7 +60,7 @@ and provides data-driven recommendations to reduce churn.
 
 \## Dashboard
 
-!\[Dashboard](dashboard/Churn\_Dashboard.png)
+!\[Dashboard](dashboard/Churn_Dashboard.png)
 
 
 
